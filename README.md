@@ -63,5 +63,4 @@ Two models are implemented and compared:
 - kagglehub (for dataset retrieval)
 
 
-This project is open-sourced under the [MIT License](LICENSE).
 
